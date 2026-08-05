@@ -1,4 +1,4 @@
-# 🤖 Project Name
+# 🤖 Machine Learning
 <!-- Replace with your project title -->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo)
